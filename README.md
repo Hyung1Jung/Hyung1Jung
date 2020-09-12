@@ -1,4 +1,4 @@
-### Hi there 👋
+### 코드리뷰 많이 해주시는 분들에게는 매 달 말에 기프티콘 선물해드립니다. 👋
 
 <!--
 **Hyung1Jung/Hyung1Jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
