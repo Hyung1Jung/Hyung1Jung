@@ -2,7 +2,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyung1Jung&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)       
-<center>[CLICK](https://together.kakao.com/)</center>
+[CLICK](https://together.kakao.com/)
 
 
 <!--
