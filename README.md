@@ -1,4 +1,4 @@
-### [같이가치](https://together.kakao.com/)
+### [CLICK](https://together.kakao.com/)
 
 <!--
 **Hyung1Jung/Hyung1Jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
