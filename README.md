@@ -1,5 +1,5 @@
 ### [CLICK](https://together.kakao.com/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyung1Jung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyung1Jung&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hyung1Jung&show_icons=true&theme=radical)
 
 
