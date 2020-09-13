@@ -1,6 +1,7 @@
 ### [CLICK](https://together.kakao.com/)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hyung1Jung&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyung1Jung&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyung1Jung&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
