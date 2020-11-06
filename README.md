@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.com/hyung1jung/https://githubcom/Hyung1Jung/Hyung1Junggit.svg)](http://hits.dwyl.com/hyung1jung/https://githubcom/Hyung1Jung/Hyung1Junggit)
 ![Hyungil github stats](https://github-readme-stats.vercel.app/api?username=Hyung1Jung&show_icons=true&hide_border=true):
 
 
