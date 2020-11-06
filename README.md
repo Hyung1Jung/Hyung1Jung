@@ -5,8 +5,8 @@
 
 <p align="center"> 
 <a href="https://together.kakao.com/">CLICK</a>
-[![HitCount](http://hits.dwyl.com/hyung1jung/https://githubcom/Hyung1Jung/Hyung1Junggit.svg)](http://hits.dwyl.com/hyung1jung/https://githubcom/Hyung1Jung/Hyung1Junggit)
 </p>
+[![HitCount](http://hits.dwyl.com/hyung1jung/https://githubcom/Hyung1Jung/Hyung1Junggit.svg)](http://hits.dwyl.com/hyung1jung/https://githubcom/Hyung1Jung/Hyung1Junggit)
 
 
 <!--
