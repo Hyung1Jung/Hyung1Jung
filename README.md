@@ -1,17 +1,17 @@
-// ![Hyungil github stats](https://github-readme-stats.vercel.app/api?username=Hyung1Jung&show_icons=true&hide_border=true):
+<div align=center>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.chttps%2F%2Fgithub.com%2FHyung1Jung%2FHyung1Jung.gitom%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
 
-
-// [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyung1Jung&layout=compact&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats):
+<h1 align="center">Hi <img src="https://preview.redd.it/oqjw9866azez.gif?format=mp4&s=f1d9d5be8bca06e96f0f8c09786bdfb3cd6ad6a4" width="40px" />, 2021 goal : </h1>
 
 <p align="center"> 
 <a href="https://together.kakao.com/">CLICK</a>
 </p>
 
-<div align=center>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.chttps%2F%2Fgithub.com%2FHyung1Jung%2FHyung1Jung.gitom%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
 <!--
 **Hyung1Jung/Hyung1Jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
