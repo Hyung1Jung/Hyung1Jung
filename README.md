@@ -2,7 +2,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.chttps%2F%2Fgithub.com%2FHyung1Jung%2FHyung1Jung.gitom%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
-<h1 align="center">Hi <img src="https://preview.redd.it/oqjw9866azez.gif?format=mp4&s=f1d9d5be8bca06e96f0f8c09786bdfb3cd6ad6a4" width="40px" />, 2021 goal : </h1>
+<h1 align="center"><img src="https://external-preview.redd.it/v8_zOkI2Xrc-gZTvuhu5nY-gNf6lYL4QJgEbEz_ZXsQ.gif?format=mp4&s=417249615b68a6439cacd15f57b7a0c4eec62ecb" width="40px" /></h1>
 
 <p align="center"> 
 <a href="https://together.kakao.com/">CLICK</a>
