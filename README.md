@@ -2,7 +2,9 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.chttps%2F%2Fgithub.com%2FHyung1Jung%2FHyung1Jung.gitom%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
-![screenshot_20171221-151714](https://j.gifs.com/kZ05P5.gif)
+<h3 align="center">2021년, 2021 커밋하기</h3>
+<h1 align="center"><img src="https://j.gifs.com/kZ05P5.gif" width="40px" /></h1>
+
 
 <p align="center"> 
 <a href="https://together.kakao.com/">CLICK</a>
