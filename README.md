@@ -4,7 +4,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyung1Jung&layout=compact&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats):
 
 <p align="center"> 
-<a href="https://together.kakao.com/">CLICK[![HitCount](http://hits.dwyl.com/hyung1jung/https://githubcom/Hyung1Jung/Hyung1Junggit.svg)](http://hits.dwyl.com/hyung1jung/https://githubcom/Hyung1Jung/Hyung1Junggit)</a>
+<a href="https://together.kakao.com/">CLICK</a>
+[![HitCount](http://hits.dwyl.com/hyung1jung/https://githubcom/Hyung1Jung/Hyung1Junggit.svg)](http://hits.dwyl.com/hyung1jung/https://githubcom/Hyung1Jung/Hyung1Junggit)
 </p>
 
 
