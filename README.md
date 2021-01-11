@@ -7,7 +7,7 @@
 
 
 <p align="center"> 
-<a href="https://together.kakao.com/">CLICK</a>
+<a>겸손하게 살자..</a>
 </p>
 
 <!--
