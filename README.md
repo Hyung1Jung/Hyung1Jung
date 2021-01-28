@@ -6,7 +6,7 @@
 <h1 align="center"><img src="https://j.gifs.com/kZ05P5.gif"></h1>
 -->
 
-<h1 align="center">![KakaoTalk_20210128_153518600](https://user-images.githubusercontent.com/43127088/106099793-9cd65d80-617e-11eb-8449-67fbeccf163b.jpg)</h1>
+![KakaoTalk_20210128_153518600](https://user-images.githubusercontent.com/43127088/106099793-9cd65d80-617e-11eb-8449-67fbeccf163b.jpg)
 
 
 <p align="center"> 
