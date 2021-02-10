@@ -6,6 +6,7 @@
 
 <p align="center"> 
 <a>겸손하게 살자..</a>
+<a> 이펙티브 자바 읽으시는 분 있으면 스터디원 구합니다....junghyungile@gmail.com
 </p>
 
 <!--
