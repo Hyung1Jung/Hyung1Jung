@@ -6,7 +6,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=Hyung1Jung&show_icons=true&theme=dark" /></p>
 </a>
-  
+
+
+<p align="center"> 
 <a>겸손하게 살자</a>
 </p>
 
