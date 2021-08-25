@@ -4,8 +4,7 @@
 
 <p align="center"><b>✨Welcome To Hyung il's Repository✨</b></p>
 
-단순히 서비스를 만드는 것이 아니라, 하나의 기능을 만들더라도 깊은 설계를 지향하며 진행한 프로젝트입니다.
----
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyung1Jung&repo=black-postoffice&show_icons=true&bg_color=FFFFFF)](https://github.com/f-lab-edu/black-postoffice)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyung1Jung&repo=inflearnJpa&show_icons=true&bg_color=FFFFFF)](https://github.com/Hyung1Jung/skhu-Info-management-system)
 
