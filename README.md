@@ -3,10 +3,9 @@
 </div>
 
 <p align="center"><b>✨Welcome To Hyung il's Repository✨</b></p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=Hyung1Jung&show_icons=true&theme=dark" /></p>
-</a>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=used-market-server&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/used-market-server)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=inflearnJpa&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/inflearnJpa)
 
 <p align="center"> 
 <a>겸손하게 살자.</a>
