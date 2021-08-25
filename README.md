@@ -6,7 +6,7 @@
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyung1Jung&repo=black-postoffice&show_icons=true&bg_color=FFFFFF)](https://github.com/f-lab-edu/black-postoffice)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyung1Jung&repo=inflearnJpa&show_icons=true&bg_color=FFFFFF)](https://github.com/Hyung1Jung/skhu-Info-management-system)
+
 
 <p align="center"> 
 <a>겸손하게 살자.</a>
