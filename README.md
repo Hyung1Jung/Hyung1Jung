@@ -15,12 +15,10 @@
 - [SOPT 26기, 세상의 모든 독립서점 - Cozy](https://github.com/OurCozy/cozy-server)
 - [Team-ITDA](https://github.com/Team-ITDA/studyhub)
 
- Tech Stack
+Tech Stack
  - java, kotlin, spring framework, mybatis, jpa, mysql, ncp, aws, nginx, jenkins, ngrinder, pinpoint
 
-<p align="center"> 
-<a>겸손하게 살자.</a>
-</p>
+겸손하게 살자...
 
 <!--
 **Hyung1Jung/Hyung1Jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
