@@ -5,7 +5,7 @@
 <p align="center"><b>✨Welcome To Hyung il's Repository✨</b></p>
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyung1Jung&repo=black-postoffice&show_icons=true&bg_color=FFFFFF)]https://github.com/Hyung1Jung/skhu-Info-management-system)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyung1Jung&repo=black-postoffice&show_icons=true&bg_color=FFFFFF)](https://github.com/Hyung1Jung/skhu-Info-management-system)
 
 
 <p align="center"> 
