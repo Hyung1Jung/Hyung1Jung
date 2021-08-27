@@ -7,6 +7,7 @@
 개발자의 덕목은 지식 공유라고 생각하며 남에게 친절한 글 및 읽기 쉬운 글을 작성하기 위해 매일 노력하고 있습니다.
 - [공부한 것들 문서화](https://github.com/Hyung1Jung/LearnKit)
 - [기술 블로그](https://junghyungil.tistory.com/)
+- [제가 작성했던 글은 개발자 커뮤니티에서 72번이나 공유되면서 현재 뜨거운 반응을 얻고 있습니다.](https://catnip-push-033.notion.site/028c271177b447a994355b53ae7cb11b) 
 
 단순히 서비스를 만드는데 그치는 것이 아니라, 하나의 기능을 만들더라도 깊은 설계를 지향하며 진행한 프로젝트입니다.
 - [Black-postoffice, 익명으로 편하게 고민, 일상을 공유하는 소셜 네트워크 서비스](https://github.com/f-lab-edu/black-postoffice)
