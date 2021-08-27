@@ -18,7 +18,7 @@
 - [Team-ITDA](https://github.com/Team-ITDA/studyhub)
 
 Tech Stack
- - java, kotlin, spring framework, mybatis, jpa, mysql, ncp, aws, nginx, jenkins, ngrinder, pinpoint
+ - `java`, `kotlin`, `spring framework`, `mybatis`, `jpa`,` mysql`, `ncp`, `aws`, `nginx`, `jenkins`, `ngrinder`, `pinpoint`
 
 <!--
 **Hyung1Jung/Hyung1Jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
