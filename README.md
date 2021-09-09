@@ -1,7 +1,7 @@
 <div align=center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.chttps%2F%2Fgithub.com%2FHyung1Jung%2FHyung1Jung.gitom%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
-:octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat:
+
 <p align="center"><b>✨Welcome To Hyung il's Repository✨</b></p>
 
 개발자의 덕목은 지식 공유라고 생각하며 남에게 친절한 글 및 읽기 쉬운 글을 작성하기 위해 매일 노력하고 있습니다.
@@ -19,7 +19,7 @@
 
 Tech Stack
  - `java`, `kotlin`, `spring framework`, `mybatis`, `jpa`,` mysql`, `ncp`, `aws`, `nginx`, `jenkins`, `ngrinder`, `pinpoint`
-:octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat:
+
 <!--
 **Hyung1Jung/Hyung1Jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
