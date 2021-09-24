@@ -17,6 +17,9 @@
 - [SOPT 26기, 세상의 모든 독립서점 - Cozy](https://github.com/OurCozy/cozy-server)
 - [Team-ITDA](https://github.com/Team-ITDA/studyhub)
 
+현재는 MSA(MicroService Architecture)에 관심을 갖고 공부하고 있습니다.
+- [hyungil-msa-project-university](https://github.com/hyungil-msa-project-university)
+
 Tech Stack
  - `java`, `kotlin`, `spring framework`, `mybatis`, `jpa`,` mysql`, `ncp`, `aws`, `nginx`, `jenkins`, `ngrinder`, `pinpoint`
 
