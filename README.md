@@ -2,7 +2,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.chttps%2F%2Fgithub.com%2FHyung1Jung%2FHyung1Jung.gitom%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
-<p align="center"><b>✨I am a developer who defines, hands-on and solves business problems✨</b></p>
+<p align="center"><b>✨I'm a developer who defines, hands-on and solves business problems✨</b></p>
 
 <!--
 **Hyung1Jung/Hyung1Jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
