@@ -2,7 +2,11 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.chttps%2F%2Fgithub.com%2FHyung1Jung%2FHyung1Jung.gitom%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
-<p align="center"><b></b></p>
+<p align="center"><b>
+  
+  <img width="441" alt="스크린샷 2022-02-10 오후 12 58 23" src="https://user-images.githubusercontent.com/43127088/153334482-c349aeef-1299-4556-814e-8f3f77ba07ae.png">
+  
+  </b></p>
 
 <!--
 **Hyung1Jung/Hyung1Jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
