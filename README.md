@@ -1,8 +1,5 @@
-<p align="center"><b>
-  
-  <img width="441" alt="스크린샷 2022-02-10 오후 12 58 23" src="https://user-images.githubusercontent.com/43127088/153334482-c349aeef-1299-4556-814e-8f3f77ba07ae.png">
-  
-  </b></p>
+<p align="center"><b>  
+  <img width="441" alt="스크린샷 2022-02-10 오후 12 58 23" src="https://user-images.githubusercontent.com/43127088/153334482-c349aeef-1299-4556-814e-8f3f77ba07ae.png"></b></p>
 
 <!--
 **Hyung1Jung/Hyung1Jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
