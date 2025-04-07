@@ -1,4 +1,5 @@
-와줘서 감사합니다~!
+tech blog)
+- https://junghyungil.tistory.com/
 <!--
 **Hyung1Jung/Hyung1Jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
