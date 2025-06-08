@@ -1,8 +1,8 @@
 💼 Experience
 - Hackle - Backend Engineer(Growth Hacking Platform)
-- MUSINSA - Backend Enginner(Exhibition & Content)
+- Musinsa - Backend Enginner(Exhibition & Content)
 - Depromeet(Extracurricular Activities) - Backend Enginner(Cozy)
-- SOPT(Extracurricular Activities) - Backend Enginner(Ygtang)
+- Sopt(Extracurricular Activities) - Backend Enginner(Ygtang)
 
 🌱 Thek Blog
 - https://junghyungil.tistory.com/
